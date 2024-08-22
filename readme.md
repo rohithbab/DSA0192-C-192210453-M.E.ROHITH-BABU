@@ -38,6 +38,36 @@
 ![19)perfect number or not using for loop](https://github.com/user-attachments/assets/28f953dc-d74d-43f7-939b-2ec59854e97f)
 # 20.To check if a number is perfect or not using WHILE condition
 ![20)perfect number or not using while loop](https://github.com/user-attachments/assets/459ec604-9391-414e-9cd3-585a03a2c99a)
+# 21. Addition,subtraction,multiplication,division
+![21)operations using class](https://github.com/user-attachments/assets/3f6170c0-a6da-4474-9223-c388abfe92f0)
+# 22.Area and volume of a rectangle
+![22)area and volume of teh rectangle](https://github.com/user-attachments/assets/435ca44b-a37e-4f9a-ad84-ba7b94748c3a)
+# 23.Nth  Fibonacci Number in C++ using IF ELSE statements
+![23)fibonacci series](https://github.com/user-attachments/assets/32fcaa21-ad1a-4880-b2f9-8052934a0463)
+# 24. Nth bit of a number in C++ using control statements, if necessary
+![24)nth bit of teh number](https://github.com/user-attachments/assets/39e74c3e-fd71-4c7b-bea3-df1f26facd18)
+# 25.To find the Most Frequent Element in an Array
+![25)most frequent number](https://github.com/user-attachments/assets/f9ad0819-6da8-42cc-9df9-3bf850baaf81)
+# 26.Nth  Fibonacci Number in C++ using IF ELSE LADDER statements
+![26)fibonacci of nth number](https://github.com/user-attachments/assets/3c8700c2-ecba-478e-b1ac-69a82e61d357)
+# 27.To find power of any number 
+![27)power of the number](https://github.com/user-attachments/assets/8d39f8da-a443-4bec-9ad6-ea49a33c6fdb)
+# 28.To Find Simple Interest
+![28)simple interest](https://github.com/user-attachments/assets/71c2108c-928d-4ab0-8fd3-262975fc4bfe)
+# 29.To find compound interest
+![29)compound interet](https://github.com/user-attachments/assets/2b6f1391-28d3-43fd-af1d-43cd4cc0eac7)
+# 30.Program to Find GCD
+![30)gcd of two numbers](https://github.com/user-attachments/assets/7af45db6-65f1-4e8e-b668-3aa4bb10a2ac)
+# 31.Program to find LCM
+![31)lcm of two numbers](https://github.com/user-attachments/assets/8739a0c7-16d9-42bd-b911-e11f09479d7a)
+# 32.Program to Check Armstrong Number
+![32)armstrong number or not](https://github.com/user-attachments/assets/7963f8ce-e843-496f-88cd-54f8686a3c6d)
+
+
+
+
+
+
 
 
 
