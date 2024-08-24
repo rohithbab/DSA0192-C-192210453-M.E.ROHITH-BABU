@@ -62,6 +62,16 @@
 ![31)lcm of two numbers](https://github.com/user-attachments/assets/8739a0c7-16d9-42bd-b911-e11f09479d7a)
 # 32.Program to Check Armstrong Number
 ![32)armstrong number or not](https://github.com/user-attachments/assets/7963f8ce-e843-496f-88cd-54f8686a3c6d)
+# 33.Develop a c++ program for default arguments
+![33)default arguments](https://github.com/user-attachments/assets/11ffe9a3-bb6a-4a12-9307-401048157542)
+# 34.Check the entered user name is valid or not using function . Get both the inputs from the user.
+![34)valid username or not](https://github.com/user-attachments/assets/07f85ccc-3fb9-41de-a937-08b27615b89b)
+# 35.Find whether the person is eligible for vote or not. And if that particular person is not eligible, then print how many years are left to be eligible.
+![35)eligibility to vote or not](https://github.com/user-attachments/assets/e1bcba9e-4681-4054-b131-c92d4e1a5c9f)
+# 36.To calculate the simple interest. Suppose the customer is a senior citizen. He is being offered 12 percent rate of interest; for all other customers, the ROI is 10 percent. 
+![36)simple interset base don senior citizen ](https://github.com/user-attachments/assets/a2089d8b-29ea-4044-8fc0-0ebbc9ad122f)
+# 37.To check  given string in palindrome or not  using inline function.
+![37)string palindrome or not](https://github.com/user-attachments/assets/52ca6f43-025c-4600-8947-b85628a906ec)
 
 
 
