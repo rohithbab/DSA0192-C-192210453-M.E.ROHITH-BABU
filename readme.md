@@ -1,4 +1,4 @@
-![38)default arguments](https://github.com/user-attachments/assets/abea6e5d-6a5e-4a90-b31d-6fed8049d7c1)# 1.lowercase or uppercase
+ # 1.lowercase or uppercase
 ![Screenshot (728)](https://github.com/user-attachments/assets/cd7ac5f4-46e7-4609-a741-f1926f0c525b)
  # 2.odd or even
  ![Screenshot (724)](https://github.com/user-attachments/assets/332bc359-05de-4695-974f-166023f2fc92)
@@ -85,12 +85,33 @@
 # 43.Perform different arithmetic operations such as addition, subtraction, division, modulus and multiplication switch case
 ![43)arithmetic operation using switch case](https://github.com/user-attachments/assets/6d49bb16-ba36-4855-a683-2ec731545b1d)
 # 44.Generate pay slips for the employees with their gross and net salary
-
+![44)employess payslip](https://github.com/user-attachments/assets/b8899b19-159b-4fde-842c-9f03d83824b8)
 # 45.	Write a  c++ program to remove duplicates from the sorted array
-
-
-
-
+![45)remove duplicates](https://github.com/user-attachments/assets/a6c46a9b-8285-4bc2-87fb-5ffe81f63174)
+# 45.Grade calculation
+![46)grade calculation](https://github.com/user-attachments/assets/99888619-16c9-4c28-a97b-c8a071a33341)
+# 47.Largest number 
+![47)largest class](https://github.com/user-attachments/assets/15ea6a8e-e36d-4879-94d5-85be42af4b46)
+# 48.Print Multiplication Table of a Number
+![48)multiplication table](https://github.com/user-attachments/assets/b12b3437-634d-48e7-8cd9-d94605c5b927)
+# 49.Find Largest Among 3 Numbers
+![49)largest among three numbers](https://github.com/user-attachments/assets/3a188733-8817-4273-bf99-20aa8ef05093)
+# 50.Reverse a number
+![50)reverse a number](https://github.com/user-attachments/assets/a746421f-68f9-424d-82c7-53a79eda226c)
+# 51.Multiply Two Floating-Point Numbers
+![51)floating numbers multiplication](https://github.com/user-attachments/assets/6ae7d78f-2fde-4f5e-9000-6f46c4ff0c80)
+# 52.Find the Size of int, float, double and char
+![52)size oof int,char,float](https://github.com/user-attachments/assets/85b13e55-f4e0-4e98-9046-b4f1a5daf20b)
+# 53.To demonstrate call by value and call by reference mechanism for swapping of number
+![53)swapping using callby reference](https://github.com/user-attachments/assets/38ea7d37-a367-4eaa-9134-1a1d41b097ac)
+# 54.Build a class series and use member function input() for getting a number and member function  show() to print fibonacci series of a number. 
+![54)class series to input and show the fibonacci series](https://github.com/user-attachments/assets/612c96da-f288-4e43-801e-c09937f43203)
+# 55.C++ program To compute a record of 10 students, Read the name, Regno ,mark1,mark2,mark3 of the student, calculate the average marks  and grade for to display it. 
+![55)compute students grade using class](https://github.com/user-attachments/assets/8f736295-0ba9-41e7-b61e-93991298589a)
+# 56. Program for binary operator overloading  in c++
+![56)binary operator overlaoding](https://github.com/user-attachments/assets/367d6ded-355a-4a86-9094-9c5fa1b88fc2)
+# 57.To calculate income tax 
+![57)calculate tax](https://github.com/user-attachments/assets/b046cf97-a5b8-4411-9c18-be9c7fd099e7)
 
 
 
