@@ -1,4 +1,4 @@
-# 1.lowercase or uppercase
+![38)default arguments](https://github.com/user-attachments/assets/abea6e5d-6a5e-4a90-b31d-6fed8049d7c1)# 1.lowercase or uppercase
 ![Screenshot (728)](https://github.com/user-attachments/assets/cd7ac5f4-46e7-4609-a741-f1926f0c525b)
  # 2.odd or even
  ![Screenshot (724)](https://github.com/user-attachments/assets/332bc359-05de-4695-974f-166023f2fc92)
@@ -72,11 +72,21 @@
 ![36)simple interset base don senior citizen ](https://github.com/user-attachments/assets/a2089d8b-29ea-4044-8fc0-0ebbc9ad122f)
 # 37.To check  given string in palindrome or not  using inline function.
 ![37)string palindrome or not](https://github.com/user-attachments/assets/52ca6f43-025c-4600-8947-b85628a906ec)
+# 38)program for default arguments
+![38)default arguments](https://github.com/user-attachments/assets/ad27ea9b-bd26-407d-870d-eabbfe580bdc)
+# 39) program for adding the number using function overloading concept
+![39)function overloading](https://github.com/user-attachments/assets/deb15aa8-6977-47d0-bc81-6d07fe136b9b)
+# 40)Declare a class box,  with length(Public variable) and width(Private variable) use set width ()and get width() function to set the width and print the length and width .
+![40)leghth and width](https://github.com/user-attachments/assets/16f21202-3c66-4a70-ab1d-667fc0e689ce)
+# 41.program  for matrix multiplication using arrays
+![41)matrix multiplication](https://github.com/user-attachments/assets/d2f73826-4f2c-4d29-8dcb-fad4636349e6)
+# 42.simple program for static field  to count the number of object created using C++.
+![42)count no of objects](https://github.com/user-attachments/assets/ce6c32cc-c159-4a15-a349-c4e15dd7bddf)
+# 43.Perform different arithmetic operations such as addition, subtraction, division, modulus and multiplication switch case
+![43)arithmetic operation using switch case](https://github.com/user-attachments/assets/6d49bb16-ba36-4855-a683-2ec731545b1d)
+# 44.Generate pay slips for the employees with their gross and net salary
 
-
-
-
-
+# 45.	Write a  c++ program to remove duplicates from the sorted array
 
 
 
