@@ -112,7 +112,23 @@
 ![56)binary operator overlaoding](https://github.com/user-attachments/assets/367d6ded-355a-4a86-9094-9c5fa1b88fc2)
 # 57.To calculate income tax 
 ![57)calculate tax](https://github.com/user-attachments/assets/b046cf97-a5b8-4411-9c18-be9c7fd099e7)
-
-
-
-
+# 58.Program to display the cube of the number up to a given integer using Destructor
+![58)cube number using destructor](https://github.com/user-attachments/assets/b8e13b70-513f-4146-908e-4614846faa5b)
+# 59.Program to display the cube of the number up to a given integer using constructor overloading
+![59)cube root of the number using constructor](https://github.com/user-attachments/assets/56fb5bfd-e327-4ee5-b37a-9161c8137582)
+# 60.Program to display the cube of the number up to a given integer using Destructor.
+![60)cube number using destructor -](https://github.com/user-attachments/assets/c162a9ee-d84e-4953-adf6-385bfc7c9089)
+# 61.To find the sum of the series using the constructor overloading.
+![61)sum of series using constructor overloading](https://github.com/user-attachments/assets/f143f86a-21d0-4e5d-8ca9-04ab0408cc1b)
+# 62.To print a pattern of right angle triangle with a number that will repeat a number in the row by using the constructor overloading.
+![62)repeated numbers right traingle](https://github.com/user-attachments/assets/aeda0e71-e5bc-47d3-ab51-d1d35a7627fd)
+# 63. Program to display the reverse of a number using the constructor overloading
+![63)reverse a number using constructor overloading](https://github.com/user-attachments/assets/b351b0b7-bed9-4d8c-909b-c676fb6cbdac)
+# 64.To Check Whether a Number can be Express as Sum of Two Prime Numbers using constructor and destructor.
+![64)sum of two prime using destructor overlaoding](https://github.com/user-attachments/assets/8e71db0b-7327-4dc8-b100-922577fa6d58)
+# 65.Program of binary to octal conversion with Constructor with constructor
+![65)Binary to octal constructor](https://github.com/user-attachments/assets/6468b304-6ada-4259-93df-74b1f2354429)
+# 66.Program to find the number and sum of all integer between 100 and 200 which are divisible by 9 with constructor destructor.
+![66)integers between 100 to 200 divisible by 9 using destructor](https://github.com/user-attachments/assets/a73899d2-3907-46e4-9e6c-0926b08560db)
+# 67.To print a pattern of right angle triangle with a number that will repeat a number in the row by using the constructor overloading.
+![67)repeated numbers right traingle using constructor overloading](https://github.com/user-attachments/assets/d3b9330d-185a-4408-a17c-504be7d2853b)
