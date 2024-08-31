@@ -132,3 +132,63 @@
 ![66)integers between 100 to 200 divisible by 9 using destructor](https://github.com/user-attachments/assets/a73899d2-3907-46e4-9e6c-0926b08560db)
 # 67.To print a pattern of right angle triangle with a number that will repeat a number in the row by using the constructor overloading.
 ![67)repeated numbers right traingle using constructor overloading](https://github.com/user-attachments/assets/d3b9330d-185a-4408-a17c-504be7d2853b)
+# 68.Area of traingle,rectangle and circle
+![68)area of triangle,rectangle,circle](https://github.com/user-attachments/assets/00bd5591-3e1a-44ad-a6ba-1247ada096f4)
+# 69.Area of the cube and cylinder
+![69)area of the cube and cylinder](https://github.com/user-attachments/assets/822e0577-eec3-4f1d-ba6b-023a7e6660c3)
+# 70.Define class inside and call it outside
+![70)Define class inside and call it outside](https://github.com/user-attachments/assets/4652497b-998b-4a7c-9f14-0c66711f29e4)
+# 71.Floyds traingle using constructor and destructor
+![71)Floyds triangle using constructor and destructor](https://github.com/user-attachments/assets/e7e7ee1a-8bd6-4c25-94f0-bd98a2da41c4)
+# 72.Deciaml to binary in array using constructor
+![72)decimal to binary in array using constructor](https://github.com/user-attachments/assets/451395d9-585f-4b7b-9178-a8ae28242582)
+# 73.Create class in name of students if no name passed unknow should be printed
+![73)create class in name of students if no name passed unkown should be printed](https://github.com/user-attachments/assets/3aba788c-94a5-4452-bc4b-ac53cd07e49c)
+# 74.Create class rectangle tehn calculate arae by given parameter
+![74)create class rectangle then calculate area by the given parameters](https://github.com/user-attachments/assets/3ba16dc7-d8d0-4747-b9a6-0841679cec0e)
+# 75.Add amount piggie bank sum
+![75)addamount piggie bank sum](https://github.com/user-attachments/assets/7b329c2e-b0ed-4355-a1e2-859f6a77e753)
+# 76.Area of square and rectangle using function overloading
+![76)area of sqaure and rectangle using function overloading](https://github.com/user-attachments/assets/36cf65eb-5bf4-4b15-a852-a8ee43a63277)
+# 77.Sum of two numbers using function overloading
+![77)sum of two numbers uisng function overloading](https://github.com/user-attachments/assets/1de013e2-f5bd-432d-a246-32bc12fa8e60)
+# 78.Students deatiles by simple inheritance
+![78)students details by simple inheritance](https://github.com/user-attachments/assets/20f774f5-d9f4-4035-ac7f-c1fa4cf0ad90)
+# 79.Demonstarte private simple inheritance
+![79)demonstarte private simple inheritance ](https://github.com/user-attachments/assets/1cb5a615-663c-4f54-8c95-bd308d57aa1c)
+# 80.Multiple inheritance
+![80)multiple inheritance](https://github.com/user-attachments/assets/a836fd49-611a-47b0-a4c2-955a086434c7)
+# 81.address of the variable
+![81)address of the variable](https://github.com/user-attachments/assets/cd4eea8b-b517-4c23-94fe-b3990b3a25b4)
+# 82.Sqaure and circle using abstarct class 
+![82)sqaure and circle using abstract class  and pure virtual function](https://github.com/user-attachments/assets/21617c9d-7335-4fe7-a08a-18cfc9ea4132)
+# 83.Illustarte program to using tis pointer
+![83)illustrate program to using this pointer](https://github.com/user-attachments/assets/4a8689a3-5d76-4cb4-bb92-606e698d2869)
+ # 84.Address of the each element in the array
+ ![84)address of each element in the array](https://github.com/user-attachments/assets/c7a75fb5-e747-49f3-9f2e-9c8b36870816)
+# 85.Multiple inheritance to find sum of two numbers
+![85)multiple inheritance to find sum of two numbers](https://github.com/user-attachments/assets/fe0ed65d-e732-4d25-8525-d15d72324914)
+# 86.Area of multiple traingles using array object concept
+![86)area of multiple traingles using array object concept](https://github.com/user-attachments/assets/b0ccb545-e39e-4bbc-a5c2-af9a41cded50)
+# 87.Print values of using pointer
+![87)print values uisng pointer](https://github.com/user-attachments/assets/3b55fc56-9b62-4dce-8274-318d18f440ec)
+# 88.Area of circle,rectangle and volume of cylinder using inheritance
+ ![88)area of circle,rectange and volume of cylinder using multilevel inheritance](https://github.com/user-attachments/assets/f3e61bb5-011a-4a45-be97-34fa27b83163)
+# 89.Employess deatiles using array of objetcs
+![89)employees details using array of objects](https://github.com/user-attachments/assets/cb38a061-96d3-4171-84c0-90af3c43b980)
+# 90.Finding to get sqaure of number and cube using hierachical inheritance
+![90)fing too get square of number and cube using hierachical inheritance](https://github.com/user-attachments/assets/b504791f-7de5-4477-8308-ae45c4944543)
+# 91.Largest number using pointers
+![91)largest number using pointers](https://github.com/user-attachments/assets/aa207d05-be1f-46dc-b5f7-cb911c82a444)
+# 92.Insert and display data by pointer notation
+![92)insert and dispaly data by pointer notation](https://github.com/user-attachments/assets/0d94f1f2-8970-43b5-837a-5b77d1286fdf)
+# 93.Bank management using multiple inheritance
+![93)bank management using multiple inheritance](https://github.com/user-attachments/assets/57c11f89-e741-4678-8e64-42f28ed1f95b)
+# 94.Students deatiles using single inheritance
+![94)student details using single inheritance](https://github.com/user-attachments/assets/6650776b-93cf-4365-a237-14d34b0d477a)
+# 95.Employee salary using hybrid inheritance
+![95)employee salary using hybrid inheritance](https://github.com/user-attachments/assets/f09cb5d9-14f6-42c7-b5b8-cf1b3fd75e66)
+# 96.Sort the elements in ascending order using pointers
+![96)sort the elements in ascendingn order using pointers](https://github.com/user-attachments/assets/a616fef6-bfdc-4c88-acd2-9e14e2b79cf4)
+# 97.Patients deatiles using inheritance
+![97)patients details using inheritance](https://github.com/user-attachments/assets/b5d47352-f751-4332-a3c8-26fe5342a49c)
